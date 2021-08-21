@@ -1,6 +1,5 @@
 import './styles.css';
 
-
 import { BoxGeometry, Mesh, MeshBasicMaterial, MeshBasicMaterialParameters, PerspectiveCamera, Scene, Vector3, WebGLRenderer, WebGLRendererParameters } from 'three';
 
 
